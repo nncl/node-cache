@@ -6,4 +6,8 @@ Caching assets with Node JS, bro.
 
 ```
 npm install
+npm start
+npm run dev
 ```
+
+Access `localhost:3000`.
